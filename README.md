@@ -7,4 +7,4 @@ This repo is for demo purpose on how to deploy streamlit app to Streamlit Cloud
 * once you hit "Add data" this will be inserted at to our database.
 * On the app's main interface, you'll see the current overview and updated overview of the database once you've added new fruits
 * the database is simply a Google Sheet
-* click [here](https://fruitdb-demo.streamlit.app/)to access the app on streamlit cloud
+* click [here](https://fruitdb-demo.streamlit.app/) to access the app on streamlit cloud
