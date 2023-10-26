@@ -34,9 +34,10 @@ if add_data:
     st.write(new_data)
     
     my_df = my_df.append(new_data, ignore_index = True)
+    st.success("Worksheet has been updated 🤓")
     #df.to_csv("userdata.csv", index = False)
     st.write("Updated overview of the Fruit Database")
     st.dataframe(my_df)
     conn.update(worksheet="Fruit", data = my_df)
-    st.success("Worksheet has been updated 🤓")
+    
 
