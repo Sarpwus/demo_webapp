@@ -1,4 +1,4 @@
-# demo_webapp
+
 This repo is for demo purpose on how to deploy streamlit app to Streamlit Cloud
 
 ### First app is a Fruit Database app
