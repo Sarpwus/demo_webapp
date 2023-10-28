@@ -39,5 +39,7 @@ if add_data:
     st.write("Updated overview of the Fruit Database")
     st.dataframe(my_df)
     conn.update(worksheet="Fruit", data = my_df)
+
+    
     
 
